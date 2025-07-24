@@ -15,7 +15,7 @@ In today's world, biking has been increasingly promoted as a sustainable and hea
 The motivation for this project comes from the fact that in the modern world there is a growing need for smart cities with real-time route planning and other optimization problems. As quantum computers mature, we can use their capabilities to improve our transportation networks. [Quantum Zeitgeist has stated that](https://quantumzeitgeist.com/quantum-computing-in-transportation-quantum-route-optimization/) early simulations have shown promise in being able to identify high-risk areas better than classical algorithms.
 
 This video from Quantum Tech for AI explains how quantum technology can be applied to common logistical optimization problems, including routing.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-1M5nJ7qSrM" 
 title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <h2>Tools and Techniques</h2>
