@@ -6,7 +6,7 @@ author_profile: false
 
 <h2>Project Idea</h2>
 
-This project explores how quantum computing can be applied to optimize biiking routes by minimizing distance and time while maximizing safety. It utilizes quantum algorithms including the Quantum Approximate Optimization Alogirthm(QAOA).
+This project explores how quantum computing can be applied to optimize biiking routes by minimizing distance and time while maximizing safety. It utilizes quantum algorithms including the Quantum Approximate Optimization Algorithm(QAOA).
 
 <h2>Background and Motivation</h2>
 
