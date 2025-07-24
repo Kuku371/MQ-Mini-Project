@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-class: wide
+classes: wide
 ---
 
 <h2>Project Idea</h2>
