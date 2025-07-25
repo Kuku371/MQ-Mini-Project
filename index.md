@@ -25,13 +25,13 @@ One possible algorithm for constructing this project would be the Quantum Approx
 
 Using these techniques, we would be able to first mathematically combine the different costs allocated to different routes on a bike path and use quantum algorithms to efficiently decide which paths are optimal. The project would likely also require Python and qiskit for quantum circuit design, as well as either OpenStreetMap(OSM) or Google Maps API for real-world biking and route data.
 
+<h2>Goals</h2>
+
+This project deeply connects to my long-term interest in both mathematics and quantum computing. My future goal is to tackle more challenging real-world problems, most of which are modelled mathematically, such as this one, using graphs. Quantum algorithms then allow for these problems to be efficiently solved, connecting them to my future aspirations. I find quantum algorithms especially interesting and hope to research them later in my life.
+
 <h2>Reference</h2>
 
 * D-Wave. “Optimizing the Connected World with Quantum.” Medium, Medium, 15 Mar. 2024, dwave.medium.com/optimizing-the-connected-world-with-quantum-897bbf452968. 
 * Quantum Computing in Transportation: Quantum Route Optimization.” Quantum Zeitgeist, 18 Sept. 2024, quantumzeitgeist.com/quantum-computing-in-transportation-quantum-route-optimization/.
 * Q-CTRL. “How Quantum Computers Can Improve Logistics Problems | Australian Army.” YouTube, 21 Feb. 2024, www.youtube.com/watch?v=-1M5nJ7qSrM. Accessed 25 July 2025.
 ‌
-
-<h2>Goals</h2>
-
-This project deeply connects to my long-term interest in both mathematics and quantum computing. My future goal is to tackle more challenging real-world problems, most of which are modelled mathematically, such as this one, using graphs. Quantum algorithms then allow for these problems to be efficiently solved, connecting them to my future aspirations. I find quantum algorithms especially interesting and hope to research them later in my life.
